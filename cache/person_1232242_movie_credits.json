@@ -1,0 +1,147 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 354915,
+            "title": "How to Murder Your Wife",
+            "original_language": "en",
+            "original_title": "How to Murder Your Wife",
+            "overview": "A black comedy based on the true story of Alfred Benning's outlandish attempts to murder his overbearing wife in 1977.",
+            "popularity": 0.7104,
+            "poster_path": "/QTLHSRenvO0zhszhHRYytq6J9r.jpg",
+            "release_date": "2015-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 9,
+            "character": "Rita Downes",
+            "credit_id": "617fe4efd388ae008a0849a2",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ViMAlHfFKx8XihqL2yQx7eCNiD.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 402210,
+            "title": "Aftershock",
+            "original_language": "en",
+            "original_title": "Aftershock",
+            "overview": "Aftershock follows four groups of people in the minutes, hours and days after Wellington is struck by a magnitude 8.2 earthquake and subsequent tsunami.  Buried office workers must pull together. Strangers, caught by the tsunami on a ruined motorway, put themselves in danger to save others. A mother must reunite her family. And, at the centre of the rescue operation, a controller is bunkered down at Wellington’s Emergency Management Office.",
+            "popularity": 1.9086,
+            "poster_path": "/kzDZLVnfI3YsZWpNHAvz6N1h4NP.jpg",
+            "release_date": "2008-10-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 5,
+            "character": "Woman1",
+            "credit_id": "5ea84dbfd38b58002027ec73",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6VGBULr5lfEHEez5REk6MDTszSI.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 10844,
+            "title": "Out of the Blue",
+            "original_language": "en",
+            "original_title": "Out of the Blue",
+            "overview": "Ordinary people find extraordinary courage in the face of madness. On 13–14 November 1990 that madness came to Aramoana, a small New Zealand seaside town, in the form of a lone gunman with a high-powered semi-automatic rifle. As he stalked his victims the terrified and confused residents were trapped for 24 hours while a handful of under-resourced and under-armed local policemen risked their lives trying to find him and save the survivors. Based on true events.",
+            "popularity": 1.4289,
+            "poster_path": "/kgxcTGKq4QiMGmecD8bSeTgp3X6.jpg",
+            "release_date": "2006-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 82,
+            "character": "Vanessa Percy",
+            "credit_id": "5ea84e11cc9683001eaf1cec",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                99,
+                18,
+                10770
+            ],
+            "id": 83249,
+            "title": "Until Proven Innocent",
+            "original_language": "en",
+            "original_title": "Until Proven Innocent",
+            "overview": "In 1993 David Dougherty was found guilty and imprisoned for the abduction and rape of his 11 year old neighbor. It took two trials, two high court appeals, a petition to the Governor General and 3 years, 6 months and 1 week in prison before David finally won his freedom and was found not guilty of the crime he didn't commit. But it wouldn't have happened without the unrelenting efforts of three individuals - a journalist, a lawyer and a scientist - who put their own personal and professional lives on the line in order to prove that David Dougherty was innocent.",
+            "popularity": 0.9928,
+            "poster_path": "/bfVtAE1yc9ziHZQyHFJjaIpVIUu.jpg",
+            "release_date": "2009-02-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "character": "Forewoman Second Trial",
+            "credit_id": "5ea84fa8be55b7001fe4fbb2",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wDfpKEENIW5j65n08LHorrfItk.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                35,
+                18
+            ],
+            "id": 1153110,
+            "title": "Bookworm",
+            "original_language": "en",
+            "original_title": "Bookworm",
+            "overview": "Eleven-year-old Mildred’s life is turned upside down when her mother lands in hospital and estranged, American magician father, Strawn Wise, comes to look after her.  Hoping to entertain the bookish tween, Strawn takes Mildred camping in the notoriously rugged New Zealand wilderness, and the pair embark on the ultimate test of family bonding – a quest to find the mythological beast known as the Canterbury Panther.",
+            "popularity": 1.5909,
+            "poster_path": "/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg",
+            "release_date": "2024-07-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 91,
+            "character": "Angelina",
+            "credit_id": "66f298122d98d59ce13b4a3c",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 78102,
+            "title": "Hook, Line and Sinker",
+            "original_language": "en",
+            "original_title": "Hook, Line and Sinker",
+            "overview": "Hook, Line and Sinker is set in Wellington, New Zealand and tells the story of PJ who loses his truck driving job of 30 years due to failing eyesight, but with the help of his partner Ronnie he finds a new place in the world.",
+            "popularity": 1.2932,
+            "poster_path": "/gt5qaKIBb3yyRRjKGYyUZHgHRJX.jpg",
+            "release_date": "2011-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1,
+            "character": "Counsellor",
+            "credit_id": "6a85c04d8b58b45525b583af",
+            "order": 12
+        }
+    ],
+    "crew": [],
+    "id": 1232242
+}

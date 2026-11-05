@@ -1,0 +1,123 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": "/Ald2pUkgHe4P8uThDTkAIxGRqRy.jpg",
+            "genre_ids": [
+                16,
+                12
+            ],
+            "id": 324467,
+            "title": "Tome of the Unknown",
+            "original_language": "en",
+            "original_title": "Tome of the Unknown",
+            "overview": "Wirt and Gregory are brothers who get tired of walking, so, they borrow a car from a romantic songster made of vegetables.",
+            "popularity": 1.675,
+            "poster_path": "/gg0ljUApO4QK1RxbzYqqhDd5zYK.jpg",
+            "release_date": "2013-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 47,
+            "character": "Greg (voice)",
+            "credit_id": "54d877cc92514154a10002f3",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 76492,
+            "title": "Hotel Transylvania",
+            "original_language": "en",
+            "original_title": "Hotel Transylvania",
+            "overview": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
+            "popularity": 20.4628,
+            "poster_path": "/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg",
+            "release_date": "2012-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.972,
+            "vote_count": 9473,
+            "character": "Additional Voices (voice)",
+            "credit_id": "5da8c88ea0f1a200136d7d84",
+            "order": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/feVXPbMHglIshM45NQRD1Mfg4dI.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 728822,
+            "title": "Behind Over the Garden Wall",
+            "original_language": "en",
+            "original_title": "Behind Over the Garden Wall",
+            "overview": "A special look at the making of Patrick McHale's award winning miniseries Over the Garden Wall.",
+            "popularity": 0.9088,
+            "poster_path": "/wMBMmqFhM7NwT35osuWiKxCSqQN.jpg",
+            "release_date": "2015-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1,
+            "character": "Self",
+            "credit_id": "5f22b35c43999b0034589a5f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c7HEAKgSKs6hd6niJySPvQ5jHen.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 482974,
+            "title": "House Shark",
+            "original_language": "en",
+            "original_title": "House Shark",
+            "overview": "When Frank finds his happy home under attack by a dangerous but largely unknown breed of shark, he’s enlists the aid of the world’s only “House Shark” expert and a grizzled former real estate agent to embark on a desperate quest to destroy the beast and claim back his life.",
+            "popularity": 1.221,
+            "poster_path": "/fi1K34wsh7CRFpFQc9d7PIjQgeh.jpg",
+            "release_date": "2017-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 3.6,
+            "vote_count": 34,
+            "character": "Kid",
+            "credit_id": "5f336277a3e4ba0033cded29",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h3X1YZXNeklLNKRVOS6DHGRosog.jpg",
+            "genre_ids": [
+                27,
+                35,
+                14
+            ],
+            "id": 287903,
+            "title": "Krampus",
+            "original_language": "en",
+            "original_title": "Krampus",
+            "overview": "When his dysfunctional family clashes over the holidays, young Max is disillusioned and turns his back on Christmas.  Little does he know, this lack of festive spirit has unleashed the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers.",
+            "popularity": 7.2216,
+            "poster_path": "/sAolMRD9rFSTU7tssfFuLEJJa7w.jpg",
+            "release_date": "2015-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.206,
+            "vote_count": 2477,
+            "character": "Ruprecht the Elf (voice)",
+            "credit_id": "69245edc4230ab25410bab02",
+            "order": 29
+        }
+    ],
+    "crew": [],
+    "id": 1386297
+}

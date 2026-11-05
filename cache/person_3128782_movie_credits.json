@@ -1,0 +1,124 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": "/wDfpKEENIW5j65n08LHorrfItk.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                35,
+                18
+            ],
+            "id": 1153110,
+            "title": "Bookworm",
+            "original_language": "en",
+            "original_title": "Bookworm",
+            "overview": "Eleven-year-old Mildred’s life is turned upside down when her mother lands in hospital and estranged, American magician father, Strawn Wise, comes to look after her.  Hoping to entertain the bookish tween, Strawn takes Mildred camping in the notoriously rugged New Zealand wilderness, and the pair embark on the ultimate test of family bonding – a quest to find the mythological beast known as the Canterbury Panther.",
+            "popularity": 1.5909,
+            "poster_path": "/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg",
+            "release_date": "2024-07-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 91,
+            "character": "Mildred",
+            "credit_id": "64b5742378570e01008a30c9",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3QtvKWJNPvUIQKtQzdtZVG62UkG.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 956502,
+            "title": "Choose Love",
+            "original_language": "en",
+            "original_title": "Choose Love",
+            "overview": "The steady boyfriend. The one who got away. The charming rock star. Who will Cami choose? In this interactive rom-com, her love life is in your hands.",
+            "popularity": 1.2124,
+            "poster_path": "/eYOZMQY3tggQs6aQCXJdAMqey5z.jpg",
+            "release_date": "2023-08-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.872,
+            "vote_count": 144,
+            "character": "Luisa",
+            "credit_id": "64ca10930b74e9012c710764",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 713704,
+            "title": "Evil Dead Rise",
+            "original_language": "en",
+            "original_title": "Evil Dead Rise",
+            "overview": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+            "popularity": 15.8617,
+            "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+            "release_date": "2023-04-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.95,
+            "vote_count": 4102,
+            "character": "Kassie",
+            "credit_id": "60ccddd2ac8e6b00409497ea",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fLbIKWdltZ4AkK0tittjbUzPXdR.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53,
+                878
+            ],
+            "id": 842353,
+            "title": "Northspur",
+            "original_language": "en",
+            "original_title": "Northspur",
+            "overview": "In a violent, post-pandemic world, a peace-loving man is forced on a desperate journey to find life-saving drugs for his wife - but to get them he must first help an ornery old man defend his cabin against all-comers.",
+            "popularity": 2.2489,
+            "poster_path": "/6kjkptZc3HGnsLzJvP6sZSBa7DX.jpg",
+            "release_date": "2023-08-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 7,
+            "character": "Tia",
+            "credit_id": "60ccdf0e426ae8004005ed2e",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 1610413,
+            "title": "One Last Adventure: The Making of Stranger Things 5",
+            "original_language": "en",
+            "original_title": "One Last Adventure: The Making of Stranger Things 5",
+            "overview": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
+            "popularity": 5.7344,
+            "poster_path": "/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
+            "release_date": "2026-01-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.177,
+            "vote_count": 99,
+            "character": "Self - Holly Wheeler",
+            "credit_id": "695be167c15da810ed769edf",
+            "order": 24
+        }
+    ],
+    "crew": [],
+    "id": 3128782
+}

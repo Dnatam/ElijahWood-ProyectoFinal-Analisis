@@ -1,0 +1,29 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": "/lULtHGIa0d0mzlmpYmoZIdOC9dO.jpg",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "id": 49146,
+            "title": "Oliver Twist",
+            "original_language": "en",
+            "original_title": "Oliver Twist",
+            "overview": "An orphan endures a harsh life in a workhouse before fleeing to London, where he falls in with a gang of juvenile pickpockets led by the criminal Fagin, and eventually finds a better life, exposing the cruelties of poverty and child labor in Victorian England.",
+            "popularity": 1.133,
+            "poster_path": "/zAYTgtQlQzFK8xGu6mREuOZTkJX.jpg",
+            "release_date": "1997-05-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 118,
+            "character": "Oliver Twist",
+            "credit_id": "5f028d49d0b434003467b465",
+            "order": 3
+        }
+    ],
+    "crew": [],
+    "id": 2703316
+}

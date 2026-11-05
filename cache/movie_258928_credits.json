@@ -1,0 +1,48 @@
+{
+    "id": 258928,
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 109,
+            "known_for_department": "Acting",
+            "name": "Elijah Wood",
+            "original_name": "Elijah Wood",
+            "popularity": 5.3962,
+            "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg",
+            "cast_id": 0,
+            "character": "Reuben Stein",
+            "credit_id": "531fd3419251411f89000979",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 61178,
+            "known_for_department": "Acting",
+            "name": "Alia Shawkat",
+            "original_name": "Alia Shawkat",
+            "popularity": 2.2762,
+            "profile_path": "/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg",
+            "cast_id": 1,
+            "character": "Dottie Kaufman",
+            "credit_id": "531fd3519251411f7a000962",
+            "order": 1
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1300393,
+            "known_for_department": "Directing",
+            "name": "David Schlussel",
+            "original_name": "David Schlussel",
+            "popularity": 0.2515,
+            "profile_path": null,
+            "credit_id": "531fd3ab9251411f8f000901",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ]
+}

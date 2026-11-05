@@ -1,0 +1,88 @@
+{
+    "id": 363994,
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 109,
+            "known_for_department": "Acting",
+            "name": "Elijah Wood",
+            "original_name": "Elijah Wood",
+            "popularity": 4.9768,
+            "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg",
+            "cast_id": 0,
+            "character": "William Merriwether",
+            "credit_id": "561fe3619251417f470024e0",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1062,
+            "known_for_department": "Acting",
+            "name": "Christopher Lloyd",
+            "original_name": "Christopher Lloyd",
+            "popularity": 4.8116,
+            "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg",
+            "cast_id": 1,
+            "character": "Victor Karloch",
+            "credit_id": "561fe371c3a3680e24004563",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 34521,
+            "known_for_department": "Acting",
+            "name": "Maurice LaMarche",
+            "original_name": "Maurice LaMarche",
+            "popularity": 1.7872,
+            "profile_path": "/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg",
+            "cast_id": 2,
+            "character": "Professor Gregor Marley",
+            "credit_id": "561fe38792514171d6003e6e",
+            "order": 2
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1449705,
+            "known_for_department": "Directing",
+            "name": "Kevin McTurk",
+            "original_name": "Kevin McTurk",
+            "popularity": 0.2152,
+            "profile_path": "/lMPpc3qdMAX3RYQ5kgTJ20ayCEH.jpg",
+            "credit_id": "561fe3f5c3a3680e190040e2",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1149910,
+            "known_for_department": "Camera",
+            "name": "Wyatt Garfield",
+            "original_name": "Wyatt Garfield",
+            "popularity": 0.3301,
+            "profile_path": null,
+            "credit_id": "5e4f0633a93d25001a4487ae",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2448080,
+            "known_for_department": "Writing",
+            "name": "R. Christopher Murphy",
+            "original_name": "R. Christopher Murphy",
+            "popularity": 0.5499,
+            "profile_path": "/7bi0kFbwXqgGcuusP1mH5UWSC5n.jpg",
+            "credit_id": "69c4c5984f6b8f7cb51c823c",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ]
+}

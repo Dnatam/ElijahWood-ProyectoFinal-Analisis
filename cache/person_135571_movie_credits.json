@@ -1,0 +1,145 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": "/qVKhr3WcbSQKJmVJhKq9ov3iwcT.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                18
+            ],
+            "id": 617,
+            "title": "Wild Things",
+            "original_language": "en",
+            "original_title": "Wild Things",
+            "overview": "When teen-socialite Kelly Van Ryan and troubled bad girl Suzie Toller accuse guidance counselor Sam Lombardo of rape, he's suspended by the school, rejected by the town, and fighting to get his life back. One cop suspects conspiracy, but nothing is what it seems...",
+            "popularity": 6.8233,
+            "poster_path": "/wrcTDD9T7Ga5c9MW7kaOo2qwIvW.jpg",
+            "release_date": "1998-03-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.39,
+            "vote_count": 2105,
+            "character": "Prisoner",
+            "credit_id": "52fe425ec3a36847f8018fa9",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/750Uayj0Bww4QfqMUJCymW3EJkC.jpg",
+            "genre_ids": [
+                12,
+                10751
+            ],
+            "id": 36355,
+            "title": "Flipper",
+            "original_language": "en",
+            "original_title": "Flipper",
+            "overview": "Sandy Ricks is sent by his mom to Coral Key, a rustic island in the Florida keys, to spend the summer with his uncle Porter Ricks. Sandy dislikes everything about his new environment until a new friend comes into his life, a dolphin named Flipper, that brings uncle and nephew together and leads Sandy on the summer adventure of a lifetime.",
+            "popularity": 2.6844,
+            "poster_path": "/c3KEzecZ5oE6CpSrWX6wCLrBJbf.jpg",
+            "release_date": "1996-05-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 365,
+            "character": "Bounty Fisherman #1",
+            "credit_id": "52fe45e19251416c91041a81",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eTvXYy918aGzPloIyfD5ngLaCbt.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 46253,
+            "title": "Zoetrope",
+            "original_language": "en",
+            "original_title": "Zoetrope",
+            "overview": "Zoetrope is a haunting and surreal film set in an apocalyptic, decaying world. Based on Franz Kafka’s “In the Penal Colony”, a man is imprisoned for an unnamed crime and tortured by a nameless sadistic bureaucrat. As the chilling nightmare unfolds, the prisoner peels away the layers of his own metaphysical existence, inching ever closer to his inescapable fate.",
+            "popularity": 0.5105,
+            "poster_path": null,
+            "release_date": "1999-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 16,
+            "character": "Man / Machine (uncredited)",
+            "credit_id": "52fe46ecc3a36847f811a0d1",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 74205,
+            "title": "Tollbooth",
+            "original_language": "en",
+            "original_title": "Tollbooth",
+            "overview": "A young woman’s dreams of love are trapped in an empty life of broken promises and futile hopes, as she desperately awaits the return of her long-missing father. In order to win her heart, a local tollbooth operator sets out to find him.  One fateful evening at the tollbooth, in a feverish collision between reality and dreams, their lives change, enabling them to start anew.",
+            "popularity": 0.8263,
+            "poster_path": "/nPD73h1UDbBpOvErGDig0Z5iDiQ.jpg",
+            "release_date": "1994-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 5,
+            "character": "Vice Cop Jim",
+            "credit_id": "6461ae7b6e0d7200ff4bf85d",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c19lKPF54a3KWWGPrP3g4cvpci9.jpg",
+            "genre_ids": [
+                80,
+                28
+            ],
+            "id": 58918,
+            "title": "Backflash",
+            "original_language": "en",
+            "original_title": "Backflash",
+            "overview": "A woman is released from prison and heads home to help outwit a local mob boss and pull off the scam of a lifetime.",
+            "popularity": 1.0021,
+            "poster_path": "/2QFPbzetlOoVxrCZ7vHY7Rm6Vxl.jpg",
+            "release_date": "2002-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 20,
+            "character": "Skull",
+            "credit_id": "52fe4979c3a36847f819be09",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nbvREKIjX16mwNZtFqAoQTTHPnQ.jpg",
+            "genre_ids": [
+                35,
+                80,
+                9648
+            ],
+            "id": 3049,
+            "title": "Ace Ventura: Pet Detective",
+            "original_language": "en",
+            "original_title": "Ace Ventura: Pet Detective",
+            "overview": "He's Ace Ventura: Pet Detective. The Ace is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!",
+            "popularity": 9.0741,
+            "poster_path": "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+            "release_date": "1994-02-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.583,
+            "vote_count": 6667,
+            "character": "Redneck #1 (uncredited)",
+            "credit_id": "59617af1c3a3680dec09f4e3",
+            "order": 50
+        }
+    ],
+    "crew": [],
+    "id": 135571
+}

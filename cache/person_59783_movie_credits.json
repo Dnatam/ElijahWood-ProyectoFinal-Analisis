@@ -1,0 +1,192 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": "/pxsR974ez8bQx0GDixxiKr7pk1o.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 9836,
+            "title": "Happy Feet",
+            "original_language": "en",
+            "original_title": "Happy Feet",
+            "overview": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!",
+            "popularity": 8.2307,
+            "poster_path": "/zP4CK9O70P8GDilfTkPm4lrmaks.jpg",
+            "release_date": "2006-11-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.234,
+            "vote_count": 5649,
+            "character": "Lombardo (voice)",
+            "credit_id": "52fe4537c3a36847f80c2a07",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/icAAqHhVXuSQlKNvUfL257AFTwN.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 65759,
+            "title": "Happy Feet Two",
+            "original_language": "en",
+            "original_title": "Happy Feet Two",
+            "overview": "Mumble the penguin has a problem: his son Erik, who is reluctant to dance, encounters the Mighty Sven — a penguin who can fly! Things get worse for Mumble when the world is shaken by powerful forces, causing him to bring together the penguin nations and their allies to set things right.",
+            "popularity": 5.9077,
+            "poster_path": "/2gWiQ4mn85jcXtREVePlVViupeV.jpg",
+            "release_date": "2011-11-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.211,
+            "vote_count": 1786,
+            "character": "Lombardo (voice)",
+            "credit_id": "52fe4718c3a368484e0b4d0f",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                99
+            ],
+            "id": 81031,
+            "title": "The Payaso Comedy Slam",
+            "original_language": "en",
+            "original_title": "The Payaso Comedy Slam",
+            "overview": "Live from San Bernardino's California Theatre comes this wildly entertaining evening of stand-up comedy hosted by Alex Reymundo and featuring stellar Latino comedians such as Jeff Garcia and Joey Diaz. Also taking the stage with their unique comedic stylings are Rick Ramos, Erik Griffin, Edwin San Juan, George Perez and Johnny Sanchez.",
+            "popularity": 1.0126,
+            "poster_path": "/548chK3UXfBRgRRS1D8FOhPNuks.jpg",
+            "release_date": "2007-09-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 2,
+            "character": "Himself",
+            "credit_id": "53ef3e3cc3a3685af2000f1c",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                10770
+            ],
+            "id": 300011,
+            "title": "3 Non Juans",
+            "original_language": "en",
+            "original_title": "3 Non Juans",
+            "overview": "Starring Johnny Sanchez (Mad TV), Carlos Alazraqui (Reno 911) and Al Madigal (Free Agents) the three perform Stand-Up Comedy for the Spanish Impaired. Of course that's easy for these three veterans of comedy since their first language is English. Filmed at the El Portal Theater the 3 Non Juans talk about the joys and perils of living in a Spanish speaking culture without speaking a word of Spanish and making a living doing it in a not so brown world, all stereo types welcome. This show is definitely for the Spanish Impaired...IT'S IN ENGLISH PEOPLE!",
+            "popularity": 0.9442,
+            "poster_path": "/z7XwaWTIAaX6w6lIutjI3QqSKWx.jpg",
+            "release_date": "2010-05-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "character": "Self",
+            "credit_id": "6344286c9c97bd00796d8679",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tu5k0Trq86eFP2d7U9XzaHVu2lv.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 27202,
+            "title": "Pauly Shore Is Dead",
+            "original_language": "en",
+            "original_title": "Pauly Shore Is Dead",
+            "overview": "Hollywood comedian/actor Pauly Shore loses everything: his house, nobody in Hollywood wants to represent him, he moves back home with his mom and is now parking cars at the Comedy Store. Then one night when he's up in his mom's loft, a dead famous comedian appears who tells Pauly to kill himself cause he'll go down as a comedic genius who died before his time. Pauly then fakes his own death, and the media goes crazy.",
+            "popularity": 1.922,
+            "poster_path": "/e5o7LfDgSKurbBQTw6lL1pouKDQ.jpg",
+            "release_date": "2003-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 93,
+            "character": "Convenience Store Clerk",
+            "credit_id": "5ee5908e0cb3350022be2d63",
+            "order": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ySYMPpD6eCBRD1YU1HK5ZKEN1gE.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 6020,
+            "title": "Sorority Boys",
+            "original_language": "en",
+            "original_title": "Sorority Boys",
+            "overview": "After being falsely accused of stealing the budget for their annual cocktail cruise, three very different fraternity brothers are kicked out of their dorm. In order to clear their name and to secure their future careers, the three dress up in drag and pledge the sorority next door where they learn a few valuable - and hilarious - lessons about themselves and the female species.",
+            "popularity": 2.17,
+            "poster_path": "/yBhRjKi16T9R3GJepPwS6ARViBi.jpg",
+            "release_date": "2002-03-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 285,
+            "character": "Littlest Alum",
+            "credit_id": "5f69194ba0b6900038489bc8",
+            "order": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jpiLWnuWssFIT8b6Ws2ajoR66Fx.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 65755,
+            "title": "Uncle P",
+            "original_language": "en",
+            "original_title": "Uncle P",
+            "overview": "Rapper/multi-millionaire P. Miller becomes the guardian of his sister's three children - all of whom need a father figure in their lives.",
+            "popularity": 0.7571,
+            "poster_path": "/vSo88Wi8hk7RtNiluMOEuhjhuGk.jpg",
+            "release_date": "2007-06-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 14,
+            "character": "Juan's Friend",
+            "credit_id": "674376934d50ccd7da48b85c",
+            "order": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                10402,
+                12
+            ],
+            "id": 354912,
+            "title": "Coco",
+            "original_language": "en",
+            "original_title": "Coco",
+            "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+            "popularity": 261.2047,
+            "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+            "release_date": "2017-10-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 21790,
+            "character": "Additional Voices (voice)",
+            "credit_id": "677a8411eca85bd5087276a8",
+            "order": 73
+        }
+    ],
+    "crew": [],
+    "id": 59783
+}

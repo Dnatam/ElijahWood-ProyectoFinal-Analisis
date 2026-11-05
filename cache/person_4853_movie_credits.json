@@ -1,0 +1,186 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": "/v6DoiKp2ThK0VUgWt73JrEN4qa4.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 340,
+            "title": "Everything Is Illuminated",
+            "original_language": "en",
+            "original_title": "Everything Is Illuminated",
+            "overview": "A young Jewish American man endeavors—with the help of eccentric, distant relatives—to find the woman who saved his grandfather during World War II—in a Ukrainian village which was ultimately razed by the Nazis.",
+            "popularity": 1.8723,
+            "poster_path": "/gk469Y3fJTlbcAkSNMZc4OtETOK.jpg",
+            "release_date": "2005-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.254,
+            "vote_count": 851,
+            "character": "Leaf Blower",
+            "credit_id": "52fe423ac3a36847f800db85",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wccYXs71oke2xVbniNAOOJvHMq9.jpg",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "id": 1051679,
+            "title": "David Baddiel: Jews Don't Count",
+            "original_language": "en",
+            "original_title": "David Baddiel: Jews Don't Count",
+            "overview": "The writer and comedian looks at antisemitism and the progressive left. From theatre to football, Baddiel explores a political blindspot with Stephen Fry, Miriam Margolyes and Neil Gaiman.",
+            "popularity": 1.0611,
+            "poster_path": "/rGkfYqujzxUQTusjwOzFVtgodv3.jpg",
+            "release_date": "2022-11-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 10.0,
+            "vote_count": 3,
+            "character": "Self",
+            "credit_id": "637bff2355937b007f25f642",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 470198,
+            "title": "Etgar Keret: Based on a True Story",
+            "original_language": "en",
+            "original_title": "Etgar Keret: Based on a True Story",
+            "overview": "In his short stories, Israeli writer Etgar Keret mixes fantasy and reality. His own life story also comes across as a modern fairy tale. In this hybrid documentary, the filmmakers investigate why storytelling is essential for Keret's survival.",
+            "popularity": 0.7078,
+            "poster_path": "/kU7BWeeYHA3fY0QV5Wcye8JpdLD.jpg",
+            "release_date": "2017-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 2,
+            "character": "Himself",
+            "credit_id": "5c35cd260e0a265a727c09c4",
+            "order": 13
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "backdrop_path": "/v6DoiKp2ThK0VUgWt73JrEN4qa4.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 340,
+            "title": "Everything Is Illuminated",
+            "original_language": "en",
+            "original_title": "Everything Is Illuminated",
+            "overview": "A young Jewish American man endeavors—with the help of eccentric, distant relatives—to find the woman who saved his grandfather during World War II—in a Ukrainian village which was ultimately razed by the Nazis.",
+            "popularity": 1.8723,
+            "poster_path": "/gk469Y3fJTlbcAkSNMZc4OtETOK.jpg",
+            "release_date": "2005-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.254,
+            "vote_count": 851,
+            "credit_id": "52fe423ac3a36847f800db63",
+            "department": "Writing",
+            "job": "Author"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hTc55dlCPMP4oqrUU66GjKjSblp.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 64685,
+            "title": "Extremely Loud & Incredibly Close",
+            "original_language": "en",
+            "original_title": "Extremely Loud & Incredibly Close",
+            "overview": "A year after his father's death, Oskar, a troubled young boy, discovers a mysterious key he believes was left for him by his father and embarks on a scavenger hunt to find the matching lock.",
+            "popularity": 5.0546,
+            "poster_path": "/6pszViNvKr1r31pP7gJNYDHEx5P.jpg",
+            "release_date": "2011-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.991,
+            "vote_count": 2200,
+            "credit_id": "52fe46e4c3a368484e0a989b",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zQG3cHYQTmArolURcoodp7WJrlw.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 503150,
+            "title": "Eating Animals",
+            "original_language": "en",
+            "original_title": "Eating Animals",
+            "overview": "An examination of our dietary choices and the food we put in our bodies.",
+            "popularity": 1.1385,
+            "poster_path": "/tppzVmguu02QAjXM957XVqKrvgl.jpg",
+            "release_date": "2018-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 26,
+            "credit_id": "5a97b9c592514128a400ced5",
+            "department": "Writing",
+            "job": "Book"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zQG3cHYQTmArolURcoodp7WJrlw.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 503150,
+            "title": "Eating Animals",
+            "original_language": "en",
+            "original_title": "Eating Animals",
+            "overview": "An examination of our dietary choices and the food we put in our bodies.",
+            "popularity": 1.1385,
+            "poster_path": "/tppzVmguu02QAjXM957XVqKrvgl.jpg",
+            "release_date": "2018-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 26,
+            "credit_id": "5a97b9fe0e0a26015600d3a8",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1cubvKnTIJEKpH34r8TqDzSyi9c.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 387402,
+            "title": "Love is Blind and Deaf",
+            "original_language": "he",
+            "original_title": "אהבה חרשת ועיוורת",
+            "overview": "Adam and Eve's story revisited with a twist \\ Adam and Eve move in together. Only this time there's no Garden of Eden No snake to blame and not much of a god to fear. Just two people struggling to get along together, one apple and some fig leaves.",
+            "popularity": 1.3979,
+            "poster_path": "/qDZLNW6GGjxJg3FNhg77DuiPQnk.jpg",
+            "release_date": "2014-01-01",
+            "softcore": false,
+            "video": true,
+            "vote_average": 6.0,
+            "vote_count": 1,
+            "credit_id": "5ff17e08414291003f50758b",
+            "department": "Writing",
+            "job": "Story"
+        }
+    ],
+    "id": 4853
+}

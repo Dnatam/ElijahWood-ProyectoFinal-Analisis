@@ -1,0 +1,121 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": "/bK1SE6E0nik4YL7irkRFrXD6dat.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 82679,
+            "title": "Fun Size",
+            "original_language": "en",
+            "original_title": "Fun Size",
+            "overview": "Wren's Halloween plans go awry when she's made to babysit her brother, who disappears into a sea of trick-or-treaters. Accompanied by her best friend and two nerdy classmates, Wren needs to find her brother before her mom finds out.",
+            "popularity": 2.4471,
+            "poster_path": "/h9DYic4zo3Oweb11009FmqZBxN4.jpg",
+            "release_date": "2012-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 457,
+            "character": "Melinda",
+            "credit_id": "52fe48689251416c9108b613",
+            "order": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6x9MC5ELoeJl7Wzl32ZlfsaDViK.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 103620,
+            "title": "Maniac",
+            "original_language": "en",
+            "original_title": "Maniac",
+            "overview": "As he helps a young artist with her upcoming exhibition, the owner of a mannequin shop's deadly, suppressed desires come to the surface.",
+            "popularity": 3.7524,
+            "poster_path": "/nbDkRvhmbYnHDXkoq0sF0PLeo8j.jpg",
+            "release_date": "2012-12-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.029,
+            "vote_count": 1081,
+            "character": "Jenna",
+            "credit_id": "52fe4a21c3a36847f81bbaa3",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AcHNwiSHv6YpSVRyGWZaWtfgmTN.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 71670,
+            "title": "Hostel: Part III",
+            "original_language": "en",
+            "original_title": "Hostel: Part III",
+            "overview": "Set in Las Vegas, the film centers on a man who attends his best friend's bachelor party, unaware of an insidious agenda that plays into hunting humans.",
+            "popularity": 4.7604,
+            "poster_path": "/ieO49ludO6DxRVV8u1LKMjtrDLN.jpg",
+            "release_date": "2011-12-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.099,
+            "vote_count": 1366,
+            "character": "Tina",
+            "credit_id": "587cd14ec3a368426e00dcd3",
+            "order": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6DjTcKckEaRV2AvUxjZ2lUsBy5c.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14
+            ],
+            "id": 173737,
+            "title": "The Cave of the Golden Rose 5",
+            "original_language": "it",
+            "original_title": "Fantaghirò 5",
+            "overview": "In this last film princess Fantaghirò ends up in a parallel dimension fairy land full of kids. Here the princess must fight against a villain called \"Nameless\".",
+            "popularity": 3.3248,
+            "poster_path": "/4gKDuhYplSpDZPneKajPK89gFqC.jpg",
+            "release_date": "1996-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 71,
+            "character": "Elina (uncredited)",
+            "credit_id": "68328b29a642dbf53e2b6c60",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9qM08KBrvuzENc0G9RzlzyVjkSm.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 85446,
+            "title": "Step Up Revolution",
+            "original_language": "en",
+            "original_title": "Step Up Revolution",
+            "overview": "Emily arrives in Miami with aspirations to become a professional dancer. She sparks with Sean, the leader of a dance crew whose neighborhood is threatened by Emily's father's development plans.",
+            "popularity": 5.246,
+            "poster_path": "/jMpwxmk3r7Aq36GcqMbCuP9DJYQ.jpg",
+            "release_date": "2012-07-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.909,
+            "vote_count": 2165,
+            "character": "Dancer (uncredited)",
+            "credit_id": "696f05f30924b73e074426c2",
+            "order": 71
+        }
+    ],
+    "crew": [],
+    "id": 932095
+}

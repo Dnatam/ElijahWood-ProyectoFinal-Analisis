@@ -1,0 +1,233 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 1122937,
+            "title": "#Seguidores",
+            "original_language": "es",
+            "original_title": "#Seguidores",
+            "overview": "",
+            "popularity": 0.4082,
+            "poster_path": "/2EfyqpH95fuMdAbJBJMxu04UC0p.jpg",
+            "release_date": "2018-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1,
+            "character": "",
+            "credit_id": "64562c9a91f0ea011ecc7c6b",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4NY2PBOcctr5ETj16zPrd0iiczU.jpg",
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 86541,
+            "title": "Ghost Graduation",
+            "original_language": "es",
+            "original_title": "Promoción fantasma",
+            "overview": "A teacher with paranormal abilities helps a group of ghosts graduate high school.",
+            "popularity": 4.8031,
+            "poster_path": "/oduJ7jj5DsVuvIctPxHRcb88vfr.jpg",
+            "release_date": "2012-02-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 231,
+            "character": "Jorge",
+            "credit_id": "52fe498c9251416c910b0ded",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wyb4Z2BUxkSdEuclUI0ngpkXezi.jpg",
+            "genre_ids": [
+                9648
+            ],
+            "id": 1159040,
+            "title": "What grows within",
+            "original_language": "gl",
+            "original_title": "O que medra por dentro (C)",
+            "overview": "Cris, an environmental ecologist fighting to replant the forest, finds evidence that a forest fire will be intentionally started imminently. After preventing it, he discovers that whoever was behind the plot will attempt another fire soon, determined not to fail again. Cris will do whatever he can to stop the fire once more.",
+            "popularity": 0.5388,
+            "poster_path": "/srzPaMhR8liq0ySAufu80gtAnZI.jpg",
+            "release_date": "2019-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "character": "Cris (ecoloxista)",
+            "credit_id": "64c95fb785b105011cad0a2c",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l2Adra1yxlXSO10ShfBcNhUy9S7.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 277387,
+            "title": "Just a Little Chemistry",
+            "original_language": "es",
+            "original_title": "Sólo química",
+            "overview": "Fan girl finds herself torn between the attraction for her film idol and her best male friend.",
+            "popularity": 1.0886,
+            "poster_path": "/nsbsRcBBnzKrQvqehRxZVI9B8KZ.jpg",
+            "release_date": "2015-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 46,
+            "character": "Hans",
+            "credit_id": "53a16e6cc3a3687b9b002418",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nFOWOd0KEgOTKclFZBm1eX0g2v5.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 342684,
+            "title": "Vulcania",
+            "original_language": "es",
+            "original_title": "Vulcania",
+            "overview": "Vulcania is a small, isolated community ruled by an enigmatic leader where nothing is quite as it seems.",
+            "popularity": 0.6448,
+            "poster_path": "/oMgS80fHZhFTRykiynvIAvTKlyX.jpg",
+            "release_date": "2015-10-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 7,
+            "character": "Alex",
+            "credit_id": "556c2272c3a36857b2000f1e",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eWpdldmVYnj1IQ0JgQqTjvpquGN.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 359767,
+            "title": "Girl Gets Girl",
+            "original_language": "es",
+            "original_title": "De chica en chica",
+            "overview": "Inès is living the American dream in Miami. She's in a relationship with Becky and is a successful illustrator for a major publishing house. However, her happiness is shattered when she is caught cheating on her girlfriend. She decides to return to her loved ones in Spain.",
+            "popularity": 1.132,
+            "poster_path": "/ivsOILlPhdwLeWuVghv9NYgoKEE.jpg",
+            "release_date": "2015-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 39,
+            "character": "Fran",
+            "credit_id": "55f67b64c3a3686d030092d6",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6YZnVLBpXdIleygcyh75NKrV9I5.jpg",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "id": 151368,
+            "title": "Open Windows",
+            "original_language": "en",
+            "original_title": "Open Windows",
+            "overview": "Nick is excited to discover he's won a dinner date with his favorite actress, Jill Goddard. But when Jill refuses to honor the contest, he receives an offer he can't refuse: the ability to view Jill secretly via computer. Nick begins watching the unknowing star on her webcam, not realizing that this decision will put himself and Jill at risk as they enter a terrifying world of cat-and-mouse.",
+            "popularity": 1.9379,
+            "poster_path": "/dHA9jV7xKWjOvv2lYWxDwAmZjhk.jpg",
+            "release_date": "2014-07-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 500,
+            "character": "Dave",
+            "credit_id": "5a51fd86c3a368751f01be1d",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jvxp3EuQQI0UNYrVhxNeeSvauED.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 1446912,
+            "title": "A Sucker's Born Every Minute",
+            "original_language": "es",
+            "original_title": "Cada día nace un listo",
+            "overview": "Toni, once a famous singer, now has gambling debts and struggles to make ends meet. His luck changes when Malena, a former lover, introduces him to Junior, a wealthy young man, ready to hire him to steal a priceless painting from his own mother. To carry out this supposedly easy heist, Toni recruits a clumsy crew, forming a team in which each one pursues their own interests.",
+            "popularity": 3.428,
+            "poster_path": "/h9MlIuR0HGdmY0T16C9Sy0LJ7l9.jpg",
+            "release_date": "2026-06-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 12,
+            "character": "Junior",
+            "credit_id": "67d0bdf066892bad628145f3",
+            "order": 3
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "backdrop_path": "/emKsh9kKdlpmagk00uPtEDwX1Xj.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 870895,
+            "title": "Chaval",
+            "original_language": "en",
+            "original_title": "Chaval",
+            "overview": "Pablo, a young man from the neighborhood, is late at night with his friend Néstor. They both wait for the van to pick them up. In the meantime, Paul's mother keeps calling him back home.",
+            "popularity": 1.4375,
+            "poster_path": "/sibvnyfaGoL2sVqqqv6N6CgjAMk.jpg",
+            "release_date": "2021-09-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1,
+            "credit_id": "61351ab45e12000061d471c6",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 802483,
+            "title": "Monster",
+            "original_language": "es",
+            "original_title": "Monstruo",
+            "overview": "Nacho appears on a TV program to undergo hypnosis in order to prove that what he allegedly witnessed on the beach four years ago when his wife drowned was real.",
+            "popularity": 0.3445,
+            "poster_path": "/ue7fTPub5tzj6EdmsrS1aYpYRWH.jpg",
+            "release_date": "2020-12-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "credit_id": "6040bd452fe2fa005b8c8691",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "id": 1074740
+}

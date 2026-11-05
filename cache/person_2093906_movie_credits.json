@@ -1,0 +1,53 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                878,
+                53,
+                10770
+            ],
+            "id": 174971,
+            "title": "Doomwatch: Winter Angel",
+            "original_language": "en",
+            "original_title": "Doomwatch: Winter Angel",
+            "overview": "University lecturer Neil Tannahill is drawn into a sinister conspiracy involving secretly-stored Soviet nuclear waste at a remote British nuclear facility after receiving an enigmatic note from legendary atomic scientist and one-time former head of \"Doomwatch\" (the infamous Scientific watchdog group of the seventies), Dr Spencer Quist.",
+            "popularity": 0.8641,
+            "poster_path": "/f8yJkOtgLEohn6zDScpe3IKUI1m.jpg",
+            "release_date": "1999-12-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3,
+            "character": "Roffey",
+            "credit_id": "611b8e8033ec260072c04712",
+            "order": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12
+            ],
+            "id": 1638625,
+            "title": "Treasure Island",
+            "original_language": "en",
+            "original_title": "Treasure Island",
+            "overview": "In 1765, young English boy Jim Hawkins gets involved with buccaneers during his quest to find pirate Captain Flint's treasure buried on a secret island.",
+            "popularity": 1.3718,
+            "poster_path": "/rniVxOGUi8bjbNh7udazJ2SrVQp.jpg",
+            "release_date": "2012-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "character": "Job Anderson",
+            "credit_id": "6aa0b2233e257e675bd7cbbf",
+            "order": 2
+        }
+    ],
+    "crew": [],
+    "id": 2093906
+}

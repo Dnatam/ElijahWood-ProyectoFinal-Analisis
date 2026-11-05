@@ -1,0 +1,301 @@
+{
+    "cast": [
+        {
+            "adult": false,
+            "backdrop_path": "/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 632856,
+            "title": "Spirited",
+            "original_language": "en",
+            "original_title": "Spirited",
+            "overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
+            "popularity": 6.549,
+            "poster_path": "/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
+            "release_date": "2022-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.825,
+            "vote_count": 827,
+            "character": "Wendy",
+            "credit_id": "618ab7271cfe3a00618b017e",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 957936,
+            "title": "Henry",
+            "original_language": "en",
+            "original_title": "Henry",
+            "overview": "A hedgehog named Henry makes a wish on his birthday for friends to hug.",
+            "popularity": 0.5196,
+            "poster_path": "/aXfP0cqCmU7pdVibYnLze81NHJz.jpg",
+            "release_date": "2015-07-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 1,
+            "character": "Henry",
+            "credit_id": "62498a44cb71b8009f758d3e",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 1246700,
+            "title": "Budding Prospects",
+            "original_language": "en",
+            "original_title": "Budding Prospects",
+            "overview": "A group of friends leave San Francisco in 1983 to start their own marijuana enterprise out in the country.",
+            "popularity": 0.8934,
+            "poster_path": "/3KhYsB0HOHAKLkucJ0kZ0xherzq.jpg",
+            "release_date": "2017-03-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2,
+            "character": "Martha",
+            "credit_id": "65e714f0ef8b320147d706a2",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzAcTHSYy9cMwuZ73OrxwbqX5bB.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1257868,
+            "title": "Couples Weekend",
+            "original_language": "en",
+            "original_title": "Couples Weekend",
+            "overview": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
+            "popularity": 3.2244,
+            "poster_path": "/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
+            "release_date": "2026-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 14,
+            "character": "Taxi Dispatcher (voice)",
+            "credit_id": "65efac0666a7c3017bddff89",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uQukHSCXwrSPD16PuZZ1dmuD0hY.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 379811,
+            "title": "Partners",
+            "original_language": "en",
+            "original_title": "Partners",
+            "overview": "Professional and life partners Kate and Leigh have shared everything for years, from their apartment to the popular bar they co-own. When a slump in their sex life forces them to reconsider their relationship, they must confront how intertwined their lives have become.",
+            "popularity": 1.181,
+            "poster_path": "/8gJhS2TCwhxB7WZPmyypcAfBkpS.jpg",
+            "release_date": "2016-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 4,
+            "character": "Leigh",
+            "credit_id": "56a9610fc3a36872d80025be",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7p80p2EcTpZohos8FFYpbIuxOGl.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 976226,
+            "title": "Cora Bora",
+            "original_language": "en",
+            "original_title": "Cora Bora",
+            "overview": "Cora senses her open relationship is on the rocks. When the struggling musician and messy millennial goes home to Portland to win her girlfriend back, she realizes it’s much more than her love life that needs salvaging.",
+            "popularity": 1.1741,
+            "poster_path": "/ulgczyiS9s41CoyeDIKGkyF8Azr.jpg",
+            "release_date": "2024-06-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 3.9,
+            "vote_count": 16,
+            "character": "Jen Tullock",
+            "credit_id": "66b328ac89a22b11287b92ce",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vnPl93ld9Sfp9gkSFGOh7v0cjRy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 500634,
+            "title": "6 Balloons",
+            "original_language": "en",
+            "original_title": "6 Balloons",
+            "overview": "Over the course of one night, a woman drives across LA with her heroin addict brother in search of a detox center, with his two-year-old daughter in tow.",
+            "popularity": 1.5792,
+            "poster_path": "/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg",
+            "release_date": "2018-03-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 259,
+            "character": "Bianca",
+            "credit_id": "5a68e332c3a3685a8a00408b",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 562239,
+            "title": "Red Light",
+            "original_language": "en",
+            "original_title": "Red Light",
+            "overview": "Ruth waits for the light to turn green.",
+            "popularity": 1.3608,
+            "poster_path": "/gsknEZcRe2UE80s62TDC0FTbgSa.jpg",
+            "release_date": "2018-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "character": "",
+            "credit_id": "5beea78b0e0a262666015a58",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ozGJGYoJjWQ1y7zjZOiKHaPjAMh.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 565326,
+            "title": "Before You Know It",
+            "original_language": "en",
+            "original_title": "Before You Know It",
+            "overview": "A pair of sisters find out that the mother they thought was dead is alive and starring on a soap opera.",
+            "popularity": 1.2092,
+            "poster_path": "/jAM1OSLm1AoVoXyLdbnkBlRSCdi.jpg",
+            "release_date": "2019-08-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 20,
+            "character": "Jackie Gurner",
+            "credit_id": "5bff4fbbc3a36869ae052262",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14
+            ],
+            "id": 689503,
+            "title": "Long Time Listener, First Time Caller",
+            "original_language": "en",
+            "original_title": "Long Time Listener, First Time Caller",
+            "overview": "After accidentally tuning to a late-night radio show, a small-town and sexually repressed woman, calls in to get some answers to her pressing questions.",
+            "popularity": 0.8329,
+            "poster_path": "/vZ7UkO3Nq1jvjrBlNucKuzhlm7k.jpg",
+            "release_date": "2019-06-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "character": "Debbie",
+            "credit_id": "5e8e293f4ccc5000127c04b4",
+            "order": 2
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "backdrop_path": "/uQukHSCXwrSPD16PuZZ1dmuD0hY.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 379811,
+            "title": "Partners",
+            "original_language": "en",
+            "original_title": "Partners",
+            "overview": "Professional and life partners Kate and Leigh have shared everything for years, from their apartment to the popular bar they co-own. When a slump in their sex life forces them to reconsider their relationship, they must confront how intertwined their lives have become.",
+            "popularity": 1.181,
+            "poster_path": "/8gJhS2TCwhxB7WZPmyypcAfBkpS.jpg",
+            "release_date": "2016-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 4,
+            "credit_id": "5b315fbf9251413cb3006473",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uQukHSCXwrSPD16PuZZ1dmuD0hY.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 379811,
+            "title": "Partners",
+            "original_language": "en",
+            "original_title": "Partners",
+            "overview": "Professional and life partners Kate and Leigh have shared everything for years, from their apartment to the popular bar they co-own. When a slump in their sex life forces them to reconsider their relationship, they must confront how intertwined their lives have become.",
+            "popularity": 1.181,
+            "poster_path": "/8gJhS2TCwhxB7WZPmyypcAfBkpS.jpg",
+            "release_date": "2016-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 4,
+            "credit_id": "5b316026c3a3685320005fde",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ozGJGYoJjWQ1y7zjZOiKHaPjAMh.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 565326,
+            "title": "Before You Know It",
+            "original_language": "en",
+            "original_title": "Before You Know It",
+            "overview": "A pair of sisters find out that the mother they thought was dead is alive and starring on a soap opera.",
+            "popularity": 1.2092,
+            "poster_path": "/jAM1OSLm1AoVoXyLdbnkBlRSCdi.jpg",
+            "release_date": "2019-08-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 20,
+            "credit_id": "5bff4f34c3a3686370058788",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ],
+    "id": 1569165
+}
